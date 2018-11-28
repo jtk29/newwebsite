@@ -397,8 +397,9 @@ a:hover{
 	opacity:0.9;
 }
 #slider .single-slider .text{
-	margin-top:230px;
+	margin-top:15%;
 	text-align:center;
+	margin-bottom:10%;
 }
 #slider .single-slider h1{
 	color:#fff;
